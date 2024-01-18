@@ -113,3 +113,21 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Mango Salsa
+
+Ingredients:
+- 2 mangos
+- 1/2 pineapple
+- 1/2 red pepper
+- 1/2 red onion
+- 1 jalapeño
+- 1/3 cup cilantro
+- 2 Tbsp lime juice
+
+Instructions:
+1. Dice mangos, pineapple, red pepper, red onion, and jalapeño.
+2. Chop cilantro.
+3. Mix all ingredients in a bowl.
+4. Let sit for 10 minutes.
+5. Serve cold with tortilla chips.
