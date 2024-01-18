@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Mango Salsa](#mango-salsa)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
