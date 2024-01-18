@@ -79,6 +79,7 @@ Ingredients:
 - 4 hamburger buns
 - Lettuce
 - Tomato
+- 5 mangos
 - Mayonnaise
 
 Instructions:
